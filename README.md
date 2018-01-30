@@ -1,2 +1,4 @@
 # Projeto-Disciplina-Sistemas-Digitais
-Transmissão de dados com detecção e correção de erros usando Código de Hamming
+Transmissão de dados com detecção e correção de erros usando Código de Hamming.
+
+[nov/2007]
